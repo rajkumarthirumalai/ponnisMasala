@@ -1,0 +1,558 @@
+@media only screen and (min-width: 1800px) and (max-width: 1960px) {
+	.sakthi-prdt-section-inner .owl-dot.active button:after {
+	    width: 64px;
+	    height: 64px;
+	}
+	.shelf {
+        height: 190px;
+    }
+    .pad_205 {
+        padding: 310px 0;
+    }
+}
+@media only screen and (min-width: 1360px) and (max-width: 1450px) {
+	.sakthi-prdt-section-inner .owl-dot.active button:after {
+	    width: 60px;
+	    height: 60px;
+	}
+}
+@media only screen and (max-width: 991px){
+	.welcome-section:after {
+	    width: 100%;
+	    background: #eee;
+	}
+	.testimonial_section .about_content {
+	    padding-right: 15px !important;
+	}
+	.testimonial_section .about_content .background_layer {
+	    width: 200% !important;
+	}
+	.testimonial_section .testimonial_box {
+	    margin-top: 0 !important;
+	}
+	.testimonial_section .testimonial_box .background_layer {
+	    width: 200% !important;
+	    margin-left: -200px;
+  	}
+	.testimonial_section .testimonial_box .about_content {
+	    padding-left: 15px !important;
+	    padding-right: 15px !important;
+	    margin-top: 28% !important;
+  	}
+	.testimonial_section .testimonial_box .testimonial_container {
+	    margin-left: -15px !important;
+  	}
+	.testimonial_section .testimonial_box .testimonial_container .testimonials {
+	    margin: 0px 0 20px 0;
+  	}
+	.testimonial_section .testimonial_box .testimonial_container .testimonials .testimonial_content {
+	    margin-left: -36px !important;
+  	}
+  	.testimonial_section .testimonial_box .testimonial_container .layer_content .testimonial_owlCarousel .testimonials .images_box .testimonial_img {
+	    border: none;
+	    position: absolute;
+	    top: 0;
+	    left: 55px;
+	}
+	.testimonial_section .testimonial_box .testimonial_container .layer_content .testimonial_owlCarousel .testimonials .images_box .testimonial_img img {
+	    width: 50%;
+	}
+  	.testimonial_section .testimonial_box .testimonial_container .layer_content .testimonial_owlCarousel .testimonials .testimonial_content {
+	    margin-top: 50px;
+	}
+	.testimonial_section .testimonial_box .testimonial_container .owl-nav .owl-prev {
+	    position: absolute;
+	    top: 20px;
+	}
+	.testimonial_section .testimonial_box .testimonial_container .owl-nav .owl-next {
+	    position: absolute;
+	    top: 20px;
+	}
+  	.masonry {
+	    columns: 2;
+	}
+	.logo {
+	    display: block;
+	    text-align: center;
+	}
+    .product-anime-item-13 {
+	    position: absolute;
+	    top: 0;
+	    right: 0;
+	}
+	.logo {
+	    padding-top: 2px;
+	    position: unset;
+	    top: unset;
+	    padding-bottom: 2px
+	}
+	.section-title {
+	    padding-left: 0;
+	}
+	.section-title .transparent-text {
+	    font-size: 4.33333rem;
+	}
+	.section-title-center .transparent-text {
+	    font-size: 4.33333rem;
+	    color: #e2e4e4;
+	}
+	.section-title-center {
+	    margin-bottom: 25px;
+	}
+	.section-title-center h2 {
+	    font-size: 2.2rem;
+	}
+	.bdr_shadow .item {
+	    box-shadow: none;
+	}
+	.parallax_obj {
+		display: none;
+	}
+	.sakthi-prdt-section-inner {
+	    padding: 0 50px;
+	    position: relative;
+	}
+	.sakthi-prdt-section-inner .owl-dot {
+	    margin: 0 0 0 50px;
+	    display: inline-block;
+	}
+	.sakthi-prdt-section-inner .owl-dot.active button:after {
+	    width: 35px;
+	    height: 35px;
+	}
+	.sakthi-prdt-section-inner .owl-dot button:after {
+	    width: 35px;
+	    height: 35px;
+	}
+	.read_btn a {
+	    text-transform: initial;
+	    letter-spacing: 1px;
+	}
+	.sakthimasala-service-block .owl-next {
+	    right: 0;
+	}
+	.sakthimasala-service-block .owl-prev {
+	    left: 0;
+	}
+	.recipe-chef-image img {
+	    width: 100%;
+	    position: relative;
+	    bottom: -40px;
+	    z-index: 1;
+	}
+	.pad_165 {
+	    padding: 78px 0;
+	}
+	#scrollUp {
+	    bottom: 20%;
+	}
+	.value-image img {
+	    margin-bottom: 25px;
+	}
+	.checkbox-inline, .radio-inline {
+	    margin-top: 13px;
+	}
+	.form-group {
+        text-align: center;
+    }
+    .modal.fade .modal-dialog {
+	    transition: -webkit-transform .3s ease-out;
+	    transition: transform .3s ease-out;
+	    transition: transform .3s ease-out,-webkit-transform .3s ease-out;
+	    -webkit-transform: translate(0, 0%);
+	    transform: translate(0, 0%);
+	}
+	.activity-popup.modal-dialog {
+    	margin-top: 5%;
+    	display: block;
+    	overflow-y: scroll;
+    	height: 600px;
+    }
+}
+@media only screen and (min-width: 260px) and (max-width: 290px) {
+	.m-t80 {
+	    margin-top: 0px;
+	}
+	.m-b80 {
+	    margin-bottom: 0px;
+	}
+	.section-title .transparent-text {
+	    font-size: 3.33333rem;
+	}
+	.section-title-center .transparent-text {
+	    font-size: 3.33333rem;
+	}
+	.section-title h2 {
+	    font-size: 1.2rem;
+	}
+	.section-title > span {
+	    font-size: 16px;
+	    letter-spacing: 4px;
+	}
+	.section-title-center h2 {
+	    font-size: 1.2rem;
+	}
+	.service-page .owl-theme .owl-nav [class*=owl-] {
+	    font-size: 12px;
+	}
+	.service-page .owl-nav [class*=owl-] {
+	    width: 25px;
+	    height: 25px;
+	    line-height: 30px;
+	}
+	.filter-receipe-image img {
+	    margin-bottom: 25px;
+	}
+	img.item-icon {
+	    float: none;
+	}
+}
+@media only screen and (min-width: 310px) and (max-width: 350px) {
+	.sakthi-recipe-items .read_btn a {
+	    padding: 15px 32px;
+	    margin-right: 20px;
+	}
+	.pad_165 {
+		padding: 15px 0;
+	}
+	.filter-cat-button {
+	    margin-bottom: 15px;
+	}
+}
+@media only screen and (min-width: 360px) and (max-width: 380px) {
+	.sakthi-recipe-items .read_btn a {
+	    padding: 15px 50px;
+	    margin-right: 20px;
+	}
+	.pad_165 {
+	    padding: 19px 0;
+	}
+	.filter-cat-button {
+	    margin-bottom: 15px;
+	}
+}
+@media only screen and (min-width: 382px) and (max-width: 405px) {
+	.sakthi-recipe-items .read_btn a {
+	    padding: 15px 50px;
+	    margin-right: 20px;
+	}
+	.pad_165 {
+	    padding: 19px 0;
+	}
+	.filter-cat-button {
+	    margin-bottom: 15px;
+	}
+}
+@media only screen and (min-width: 410px) and (max-width: 450px) {
+	.sakthi-recipe-items .read_btn a {
+	    padding: 15px 75px;
+	    margin-right: 20px;
+	}
+	.filter-cat-button {
+	    margin-bottom: 15px;
+	}
+	.pad_165 {
+	    padding: 23px 0;
+	}
+}
+@media only screen and (min-width: 450px) and (max-width: 480px) {
+	.sakthi-recipe-items .read_btn a {
+	    padding: 15px 75px;
+	    margin-right: 20px;
+	}
+	.pad_165 {
+	    padding: 34px 0;
+	}
+	.filter-cat-button {
+	    margin-bottom: 15px;
+	}
+}
+@media only screen and (min-width: 580px) and (max-width: 640px) {
+	.sakthi-recipe-items .read_btn a {
+	    padding: 15px 33px;
+	    margin-right: 20px;
+	}
+	.pad_165 {
+	    padding: 53px 0;
+	}
+	.filter-cat-button {
+	    margin-bottom: 15px;
+	}
+}
+@media only screen and (min-width: 760px) and (max-width: 810px) {
+	.carousel-style-dot-2 .owl-dots {
+	    position: absolute;
+	    left: 0px;
+	    right: unset;
+	    bottom: 10px;
+	    top: unset;
+	}
+	.testimonial_section .testimonial_box .testimonial_container .layer_content .testimonial_owlCarousel .testimonials .testimonial_content {
+	    margin-top: 180px;
+	}
+	.testimonial_section .testimonial_box .testimonial_container .owl-nav .owl-prev {
+	    position: absolute;
+	    top: 38%;
+	}
+	.testimonial_section .testimonial_box .testimonial_container .owl-nav .owl-next {
+	    position: absolute;
+	    top: 38%;
+	}
+	.bdr_rght {
+	    border-right: none;
+	}
+	.right-side-pad {
+	    padding-right: 0px;
+	}
+	.left-side-pad {
+	    padding-left: 0px;
+	}
+	.fix-image.portion_three {
+	    background-size: cover;
+	}
+	.filter-cat-button {
+	    margin-bottom: 15px;
+	}
+	.pad_165 {
+	    padding: 74px 0;
+	}
+	.checkbox-inline, .radio-inline {
+     	margin-top: 0px; 
+	}
+	.recipe-chef-image img {
+        position: relative;
+        bottom: -82px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+	.pad_165 {
+	    padding: 115px 0;
+	}
+	.section-title {
+	    padding-left: 40px;
+	}
+	.sakthi-prdt-section-inner .owl-dot.active button:after {
+	    width: 40px;
+	    height: 40px;
+	}
+	.sakthi-prdt-section-inner .owl-dot button:after {
+	    width: 40px;
+	    height: 40px;
+	}
+}
+@media (max-width: 1200px) {
+    .masonry {
+		columns: 2;
+	}
+}
+
+@media only screen and (max-width: 640px){
+	.sakthi-map-ection {
+	    margin-bottom: 25px;
+	}
+	.left-pad-80 {
+		padding-left: 0;
+	}
+	.csr-image {
+		margin-bottom: 25px;
+		text-align: center;
+	}
+	.pad_80 {
+	    padding: 40px 0;
+	}
+	.service-image {
+	    margin-bottom: 25px;
+	}
+	.bdr_rght {
+	    border-right: none;
+	}
+	.right-side-pad {
+	    padding-right: 0px;
+	}
+	.left-side-pad {
+	    padding-left: 0px;
+	}
+	.nme_designation {
+		margin-bottom: 25px;
+	}
+	.footer-area, .footer-two-area {
+	    padding-top: 0px;
+	}
+	.sakthi-services .owl-nav {
+	    width: 65%;
+	}
+	.sakthi-service-img {
+	    margin-bottom: 25px;
+	}
+	.footer-text span {
+	    text-align: center;
+	    line-height: 28px;
+	}
+	.footer-text a {
+	    line-height: 32px;
+	}
+	.prdt_heading h6 {
+	    line-height: 32px;
+	}
+	.image-portion {
+	    margin-bottom: 20px;
+	}
+	.banner_text h2 {
+    	font-size: 28px;
+    }
+
+/*@media only screen and (min-width: 580px) and (max-width: 640px) {
+	.logo {
+		position: relative;
+		left: 370%;
+	}
+	.logo img {
+		width: 100%;
+	}
+}*/
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+	.display-none-md, .slider-two-area .slider-text p br, .banner-text-container p br, .banner-full p br, .slider-four .slide-two p br, .about-text > h1 br, .abt-srv-3 .abt-service-image {
+	    display: block;
+	}
+	.mobile-menu-area {
+	    display: none;
+	    position: relative;
+	}
+	.main-menu {
+	    float: right;
+	    top: 13px;
+	    position: relative;
+	}
+	.main-menu>nav>ul>li {
+	    margin-right: 16px;
+	    position: relative;
+	}
+	.main-menu>nav>ul>li>a {
+	    font-size: 10px;
+	}
+	.sakthi-services .owl-nav {
+	    position: absolute;
+	    top: -50px;
+	    right: 0px;
+	    width: 40%;
+	}
+	.fix-image.portion_two {
+	    background-attachment: scroll; 
+	}
+	.prdt_heading h6 {
+	    line-height: 32px;
+	}
+    .portion-style-two {
+	    margin-bottom: 5px;
+	}
+}
+@media (min-width:1024px) {
+	.feature-item.style-1:before {
+		position: absolute;
+		top: -72px;
+		bottom: -63px;
+		left: 0;
+		width: 1px;
+		background-color: #444;
+		content: ''
+	}
+}
+
+@media (max-width: 991px) {
+  .testimonials-section .testimonials-grids, .testimonials-section-s2 .testimonials-grids {
+    margin-top: 40px;
+  }
+}
+@media (max-width: 767px) {
+  .testimonials-section .testimonials-grids, .testimonials-section-s2 .testimonials-grids {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 1199px) {
+  .testimonials-section .testimonials-grids:before, .testimonials-section-s2 .testimonials-grids:before {
+    display: none;
+  }
+}
+@media (max-width: 767px) {
+  .testimonials-section .grid .img-holder, .testimonials-section-s2 .grid .img-holder {
+    width: 100%;
+    float: none;
+  }
+}
+@media (max-width: 991px) {
+  .testimonials-section .grid .img-holder img, .testimonials-section-s2 .grid .img-holder img {
+    margin: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 10px solid #f1f1f1;
+  }
+}
+@media (max-width: 991px) {
+  .testimonials-section .grid .details, .testimonials-section-s2 .grid .details {
+    padding: 0 0 0 45px;
+  }
+}
+@media (max-width: 767px) {
+  .testimonials-section .grid .details, .testimonials-section-s2 .grid .details {
+    width: 100%;
+    float: none;
+    padding: 35px 0 0;
+  }
+}
+@media (max-width: 991px) {
+  .testimonials-section .grid .details h3, .testimonials-section-s2 .grid .details h3 {
+    font-size: 20px;
+    font-size: 1.33333rem;
+  }
+}
+@media (max-width: 767px) {
+  .testimonials-section .grid .details h3, .testimonials-section-s2 .grid .details h3 {
+    font-size: 17px;
+    font-size: 1.13333rem;
+  }
+}
+@media (max-width: 767px) {
+  .testimonials-section .details .client-info, .testimonials-section-s2 .details .client-info {
+    font-size: 15px;
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 1023px) {
+	.testimonial-section .title-column, .testimonial-section .title-column .inner-column, .testimonial-section .testimonial-column, .testimonial-section .testimonial-column .inner-column {
+	    max-width: 100%;
+	}
+	.testimonial-section .title-column .inner-column, .testimonial-section .testimonial-column .inner-column {
+	    padding: 70px 15px;
+	}
+}
+@media only screen and (max-width: 599px) {
+	.testimonial-section .testimonial-column {
+	    border-radius: 0;
+	}
+	.testimonial-block, .testimonial-block .inner-box {
+	    padding-right: 0;
+	    text-align: center;
+	}
+	.testimonial-block .image-box {
+	    position: relative;
+	    display: inline-block;
+	    margin-bottom: 30px;
+	}
+	.testimonial-block .text {
+	    margin-bottom: 20px;
+	}
+	.testimonial-carousel .owl-nav {
+	    left: 0;
+	    right: 0;
+	    max-width: 62px;
+	    margin: 0 auto;
+	}
+	.testimonial-block:before {
+		display: none;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.testimonial-section .title-column .inner-column {
+	    padding-top: 0;
+	}
+}

@@ -1,0 +1,143 @@
+.header-two-area .main-menu > nav > ul > li.active .active a { color: #ee3333 !important; }
+.owl-dot button { position: relative; }
+.owl-dot button:before { position: absolute; content: attr(data-attr); width: 150px; height: auto;
+	left:-30px; top:-45px; background: linear-gradient(to bottom, #FD9C00 0%, #ED9961 30%, #9F984E 100%); border-radius: 20px; 
+	color: #fff; text-shadow: 1px 1px 3px rgba(0,0,0,0.8); font-size: 12px; box-shadow: 1px 1px 14px rgba(210, 54, 55,0.6) inset;
+	transition: all 0.5s linear; opacity: 0; padding: 5px; border: 1px solid #d23637; }
+.owl-dot button:hover:before { opacity: 1; }
+.owl-dot button .arrow { position: absolute; border-color: #d23637 transparent transparent;
+	border-width: 8px; left: 17px; top: -10px; border-style: solid; opacity: 0; transition: all 0.5s linear; }
+.owl-dot button:hover .arrow { opacity: 1; }
+.owl-dot.active button:before, .owl-dot.active button .arrow { opacity: 1; }
+.testimonial_section .testimonial_box .testimonial_container .layer_content .testimonial_owlCarousel .testimonials .testimonial_content {
+	box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.13) inset;
+}
+.op-0 { opacity: 0 !important; }
+p { text-align: justify; text-justify: distribute; }
+/*body { -webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+ }*/
+/*.sakthi-prdt-section-inner .owl-dot button:after { width: 60px; height: 60px; }*/
+.cursor { width: 25px; height: 25px; border: 2px solid #ff9000;
+	border-radius: 100%; background: rgba(255, 144, 0, 0.3); position: absolute; 
+	transition: all 0.1s ease; z-index: 1000; }
+.cursor .inner-cursor { position: relative; width: 5px; height: 5px; content: "";
+	border-radius: 100%; background: #ff9000; left: 35%; top: 35%; }
+.mod-style .image-portion { box-shadow: 1px 1px 25px rgba(0,0,0,0.5) inset; background: #fff; 
+	padding: 15px; background: url("../images/bg/round.webp") /*rgba(255, 144, 0, 1)*/#fefefe;
+	background-repeat: repeat; background-blend-mode: multiply; background-attachment: fixed; }
+.image-portion img { border: 10px solid transparent;  }
+.pad_btm_mod { padding-bottom: 20%; }
+.lg { background: #000; }
+
+
+
+#scrollUp .fa.fa-angle-double-up { 
+	animation-name: loop; animation-duration: 0.5s; animation-iteration-count: infinite;
+	animation-direction: alternate; }
+
+
+.bg { background: #4dc247; width: 50px; height: 50px; border-radius: 100%; position: fixed;
+	top: 35%; left: 50px; border: 0.5px solid #fff; z-index: 1000000; cursor: pointer;
+	box-shadow: 0 1px 15px rgba(0,0,0,0.3); transition: all 0.5s ease; transform: translate3d(0,0,0);
+	animation-name: hide; animation-duration: 7s; animation-timing-function: linear;
+	animation-iteration-count: finite; animation-delay: 0s; }
+.bg i { position: relative; top: 20%; left: 25%; font-size: 30px; color: #fff;
+	z-index: 10000; }
+.bg:before { width: 80px; height: 80px; border-radius: 100%; 
+	background: rgba(77, 194, 71,0.3); content: ""; left: -16px; top: -16px; position: absolute; }
+.bg:after { width: 60px; height: 60px; border-radius: 100%; 
+	background: rgba(77, 194, 71,0.3); content: ""; left: -6px; top: -6px; position: absolute; }
+.bg .animate { position: absolute; width: 80px; height: 80px; background: rgba(77,194,71, 0.3);
+	border-radius: 100%; left: -15px; top: -15px; animation-name: scale; animation-duration: 0.8s;
+	animation-iteration-count: infinite; animation-direction: alternate; animation-delay: 0s;
+	animation-timing-function: linear; z-index: 15;
+	 }
+.bg .animate2 { position: absolute; width: 80px; height: 80px; background: rgba(77,194,71, 0.3);
+	border-radius: 100%; left: -15px; top: -15px; animation-name: scale2; animation-duration: 0.4s;
+	animation-iteration-count: infinite; animation-direction: alternate; animation-delay: 0s;
+	animation-timing-function: linear; z-index: 10;
+	 }
+.side { font-size: 20px; position: fixed; top: 35%; left: -25px; background: rgba(226, 130, 7, 0.6); 
+	color: #fff;border: 2px solid #e28207; width: 55px; height: 55px;
+	text-align: center; cursor: pointer; border-radius: 100%; padding-top: 13px;
+	padding-left: 15px; z-index: 10000000; }
+.ani .bg { transform: translate3d(-200px,0,0); }
+/* Works on Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #675a53 transparent;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 5px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #675a53;
+  border-radius: 20px;
+  border: 1px solid #fff;
+}
+
+		
+		
+
+
+@keyframes loop {
+	from {
+		padding-top: 0;
+		opacity: 1;
+	}
+	to {
+		padding-top: 20px;
+		opacity: 0.5;
+	}
+}
+@keyframes scale {
+	from {
+		transform: scale(0);
+	}
+	to {
+		transform: scale(1);
+	}
+}
+@keyframes scale2 {
+	from {
+		transform: scale(0);
+	}
+	to {
+		transform: scale(1);
+	}
+}
+
+@keyframes hide {
+	0% {
+		transform: translate3d(0,0,0);
+	}
+	25% {
+		transform: translate3d(0,0,0);
+	}
+	50% {
+		transform: translate3d(0,0,0);
+	}
+	100% {
+		transform: translate3d(-200px,0,0);
+	}
+}
+
+
+@media screen and (max-width: 991px) {
+	.owl-dot.active button:before, .owl-dot.active button .arrow { opacity: 0; }
+	.owl-dot.active button:hover:before, .owl-dot.active button:hover .arrow { opacity: 1; }
+	.carousel-style-dot-2 .owl-dots { left: 0px; right: unset; bottom: 10px;
+		top: unset; }
+	.owl-dot { margin-left: 5px !important; }
+	.owl-dot button, .owl-dot button:after { width: 40px !important; height: 40px !important; border-radius: 100%; } 
+}

@@ -1,0 +1,147 @@
+/*Home*/
+
+
+/*Recipe*/
+.product-anime-item-01 {
+    background: url(../images/parallax-item/01.png) no-repeat;
+    margin: 0;
+    height: 391px;
+    width: 396px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    opacity: 0.1;
+}
+.product-anime-item-02 {
+    background: url(../images/parallax-item/08.png) no-repeat;
+    margin: 0;
+    height: 406px;
+    width: 331px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0.1;
+}
+.product-anime-item-03 {
+    background: url(../images/parallax-item/03.png) no-repeat;
+    margin: 0;
+    height: 440px;
+    width: 210px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0.4;
+}
+.product-anime-item-04 {
+    background: url(../images/parallax-item/04.png) no-repeat;
+    margin: 0;
+    height: 280px;
+    width: 224px;
+    position: absolute;
+    bottom: 0;
+    left: -1%;
+    z-index: -1;
+    opacity: 0.4;
+}
+.product-anime-item-05 {
+    background: url(../images/parallax-item/05.png) no-repeat;
+    margin: 0;
+    height: 396px;
+    width: 391px;
+    position: absolute;
+    top: 0;
+    right: 2%;
+    z-index: -1;
+    opacity: 0.1;
+}
+.product-anime-item-08 {
+    background: url(../images/parallax-item/15.png) no-repeat;
+    margin: 0;
+    height: 410px;
+    width: 300px;
+    position: absolute;
+    top: 200px;
+    right: 0;
+    z-index: -1;
+    opacity: 0.1;
+}
+.product-anime-item-09 {
+    background: url(../images/parallax-item/08.png) no-repeat;
+    margin: 0;
+    height: 410px;
+    width: 300px;
+    position: absolute;
+    top: 200px;
+    left: 0;
+    z-index: -1;
+    opacity: 0.5;
+}
+.product-anime-item-10 {
+    background: url(../images/parallax-item/1.png) no-repeat;
+    margin: 0;
+    height: 270px;
+    width: 350px;
+    position: absolute;
+    top: 0;
+    left: 1%;
+    z-index: -1;
+    opacity: 0.5;
+}
+.product-anime-item-11 {
+    background: url(../images/parallax-item/2.png) no-repeat;
+    margin: 0;
+    height: 380px;
+    width: 266px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    opacity: 0.5;
+}
+.product-anime-item-12 {
+    background: url(../images/parallax-item/3.png) no-repeat;
+    margin: 0;
+        height: 308px;
+    width: 327px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0.5;
+}
+.product-anime-item-13 {
+    background: url(../images/parallax-item/5.png) no-repeat;
+    margin: 0;
+    height: 283px;
+    width: 299px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    opacity: 0.5;
+}
+.product-anime-item-14 {
+    background: url(../images/parallax-item/7.png) no-repeat;
+    margin: 0;
+    height: 800px;
+    width: 350px;
+    position: absolute;
+    top: 0;
+    right: 1%;
+    z-index: -1;
+    opacity: 0.4;
+}
+.product-anime-item-15 {
+    background: url(../images/parallax-item/4.png) no-repeat;
+    margin: 0;
+    height: 285px;
+    width: 325px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    opacity: 0.8;
+}
